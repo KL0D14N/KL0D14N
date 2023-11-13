@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **DiscoverKosova**
+
 
 - 🌱 I’m currently learning **Java and Backend services, React**
 
